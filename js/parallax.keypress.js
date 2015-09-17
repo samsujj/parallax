@@ -1,0 +1,1 @@
+(function(e){"use strict";jQuery("body").keydown(function(e){if(e.keyCode==39&&pagemove<total_num_pages-1){pagemove++;HORILLAX.ANIM.instance.move(pagemove)}else if(e.keyCode==37){if(pagemove>0){pagemove--;HORILLAX.ANIM.instance.move(pagemove)}}})})(jQuery)

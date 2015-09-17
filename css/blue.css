@@ -1,0 +1,292 @@
+html, body {
+
+	
+
+}
+
+a {
+
+	color:#AAA
+
+}
+
+body {
+
+	color:#999; background-color:#13031a;
+
+}
+
+.page-desc {
+
+	color:#d9f0ee
+
+}
+
+.content-box .entry-header, .content-box .team-content, .content-box .team-content h3, .content-box .team-content p, .content-box .team .member, .content-box .blogpost {
+
+
+
+}
+
+.page-title h1, .parallax-page .page-title h1, .page .page-title h1, .author .page-title h1 {
+
+	color:#FFF
+
+}
+
+.page-title h4, .parallax-page .page-title h4, .page .page-title h4, .author .page-title h4 {
+
+	color:#ebf7f6
+
+}
+
+.navbar-inverse .navbar-nav >li >a {
+
+	color:#333
+
+}
+
+.widget-title {
+
+	color:#333
+
+}
+
+.blog-post-title, .team-content h3 {
+
+	color:#333
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+	color:#333
+
+}
+
+.parallax-page .entry-header .blog-post-title, .parallax-page .entry-header .blog-post-title a {
+
+	color:#333
+
+}
+
+.team-desc {
+
+	background:#EDF4F3
+
+}
+
+.overlay {
+
+	background:#ebf7f6
+
+}
+
+.page .entry-content, .comments-area, .comment-respond, .team-desc, .blog-main, .blog-sidebar {
+
+	color:#666
+
+}
+
+.search-field, #commentform #author, #commentform #email, #commentform #url, #commentform textarea, textarea, input[type='text'], .search-form .search-submit, .widget .btn-default.search-submit i, .search-form .search-submit:hover, .search-form .search-submit:hover i {
+
+	color:#333;
+
+	background:#F2F2F2
+
+}
+
+.navbar-inverse, .pagination >li >a, .pagination >li >span, .pagination >li >a:hover, .pagination >li >span:hover, .pagination >li >a:focus, .pagination >li >span:focus, #portfolio-cat-filter {
+
+	
+
+}
+
+.navbar-inverse .navbar-nav >li >a, .pagination >li a, .pagination >li >span:hover, .pagination >li >a:focus, .pagination >li >span:focus {
+
+
+
+}
+
+.navbar-inverse .navbar-nav >li >a:hover, .pagination >li a:hover {
+
+	
+
+}
+
+.navbar-inverse .navbar-nav >.current_page_item >a.dropdown-toggle, nav .current_page_item, nav .current_page_item:hover, nav .current_page_item a:focus, .navbar-inverse .navbar-nav >li.current_page_item >a:hover, .navbar-inverse .navbar-nav >li.current_page_item >a:focus, nav .dropdown-menu >.active >a, nav .dropdown-menu >.active >a:hover, nav .dropdown-menu >.active >a:focus, #masthead .navbar-nav li.current-menu-item, .navbar-inverse .navbar-nav >.current_page_item >a, .navbar-inverse .navbar-nav >.current_page_item >a:hover, .navbar-inverse .navbar-nav >.current_page_item >a:focus, .pagination >li.active a, .pagination >.disabled >span, .pagination >.disabled >span:hover, .pagination >.disabled >span:focus, .pagination >.disabled >a, .pagination >.disabled >a:hover, .pagination >.disabled >a:focus {
+
+
+
+}
+
+.navbar-inverse .navbar-nav >.current_page_item >a.dropdown-toggle, nav .current_page_item, nav .current_page_item:hover, nav .current_page_item a:focus, .navbar-inverse .navbar-nav >li.current_page_item >a:hover, .navbar-inverse .navbar-nav >li.current_page_item >a:focus, nav .dropdown-menu >.active >a, nav .dropdown-menu >.active >a:hover, nav .dropdown-menu >.active >a:focus, #masthead .navbar-nav li.current-menu-item, .navbar-inverse .navbar-nav >.current_page_item >a, .navbar-inverse .navbar-nav >.current_page_item >a:hover, .navbar-inverse .navbar-nav >.current_page_item >a:focus, .pagination >li.active a, .pagination >.active >a, .pagination >.active >span, .pagination >.active >a:hover, .pagination >.active >span:hover, .pagination >.active >a:focus, .pagination >.active >span:focus, .pagination >.disabled >span, .pagination >.disabled >span:hover, .pagination >.disabled >span:focus, .pagination >.disabled >a, .pagination >.disabled >a:hover, .pagination >.disabled >a:focus {
+
+
+
+}
+
+.blog-main a, .blog-sidebar a, .parallax-page .content-box a {
+
+	color:#a9baba
+
+}
+
+.blog-main a:hover, .blog-sidebar a:hover {
+
+	color:#333
+
+}
+
+a {
+
+	color:#AAA
+
+}
+
+a:hover {
+
+	color:#333
+
+}
+
+@media (max-width:768px) {
+
+.navbar-collapse {
+
+border:none
+
+}
+
+.navbar-inverse .navbar-toggle {
+
+background:#331a41;
+
+border-color:#14091a
+
+}
+
+}
+
+.parallax-page a:hover {
+
+	color:#333
+
+}
+
+.parallax-page .content-box a:hover {
+
+	color:#333
+
+}
+
+.parallax-page, .template-parallax, .parallax-page .page-title h1 {
+
+	color:#FFF
+
+}
+
+.blog-post, .sidebar-module, .widget {
+
+	background:#FFF
+
+}
+
+.btn-default, .parallax-page .content-box a.btn-default, .parallax-page .content-box a.btn-default i, .btn-group .btn-default i, .widget .btn-default i, .widget_tag_cloud a, .sidebar-module.widget tfoot a, .icon {
+
+	background:#331a41;
+
+	color:#fff;
+
+	border:none
+
+}
+
+.parallax-page .content-box a.btn-default:hover i, .parallax-page .content-box a.btn-default:hover, .btn-default:hover, .content-box .btn-default:hover, .btn-default:hover i, .widget_tag_cloud a:hover, .btn-default:focus, .btn-default:active, .btn-default:focus i, .btn-default:active i, .btn-default.active i, .btn-default.active, .open .dropdown-toggle.btn-default, .sidebar-module.widget tfoot a:hover, .icon:hover, .icon:hover i, .parallax-page .btn:hover {
+
+	background:331a41;
+
+	color:#fff
+
+}
+
+.btn {
+
+	border-color:transparent !important
+
+}
+
+.btn-group .btn+.btn, .btn-group .btn+.btn-group, .btn-group .btn-group+.btn, .btn-group .btn-group+.btn-group {
+
+	margin-left:0
+
+}
+
+.pace {
+
+	background:#FFF;
+
+border-radius:8px; padding:10px!important;
+
+}
+
+.pace .pace-progress {
+
+	background:#733d91!important; 
+
+	 border-radius:5px;  padding:2px !important; 
+
+}
+
+.loading-page {
+
+	background:#07070a
+
+}
+
+.pace .pace-progress:after {
+
+	color:#FFF
+
+}
+
+.content-box, .parallax-portfolio .slider li, .content-box .entry-header, .content-box .team-content, .content-box .team-content h3, .content-box .team-content p, .content-box .team .member, .content-box .blogpost {
+
+	
+
+}
+
+.content-box p, .content-box {
+
+	color:#fff
+
+}
+
+.content-box .page-title h1 {
+
+	color:#333
+
+}
+
+.content-box .page-title h4 {
+
+	color:#999
+
+}
+
+.content-box .nano.has-scrollbar .nano-slider {
+
+	background:#333
+
+}
+
+.nano.has-scrollbar .nano-slider {
+
+	background:#FFF
+
+}
+
+
+
+.current_page_item a{ background:#68438e; color:#fff!important;}
+.menu_item a,.menu_item1 a{ background:#68438e; color:#000!important;}
